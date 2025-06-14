@@ -3,6 +3,7 @@
 > Transform any text into clear, actionable insights using advanced AI agents that work together seamlessly.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pr1ncegupta/TLDR-P)
+[![GitHub contribute](https://img.shields.io/badge/GitHub-Contribute-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pr1ncegupta/TLDR-P/contribute)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](https://github.com/pr1ncegupta/TLDR-P/blob/main/CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/pr1ncegupta/TLDR-P/blob/main/LICENSE)
 [![Powered by Lyzr AI](https://img.shields.io/badge/Powered%20by-Lyzr%20AI-007AFF?style=for-the-badge)](https://www.lyzr.ai/)

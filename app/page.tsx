@@ -1152,17 +1152,42 @@ export default function Home() {
 
       {/* Footer */}
       <footer style={{ paddingTop: '72px', paddingBottom: '48px' }}>
-        <div className="text-center">
+        <div className="flex items-center justify-center gap-4 flex-wrap">
           <p style={{ 
             color: 'var(--apple-text-tertiary)',
             fontSize: '13px',
-            fontWeight: '400'
+            fontWeight: '400',
+            margin: 0
           }}>
-            Made by <span style={{ 
-              color: 'var(--apple-text-primary)',
-              fontWeight: '500'
-            }}>Prince</span> with ❤️
+            Made by <a 
+              href="https://github.com/pr1ncegupta" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{ 
+                color: 'var(--apple-text-primary)',
+                fontWeight: '500',
+                textDecoration: 'none',
+                borderBottom: '1px solid transparent',
+                transition: 'border-bottom-color 0.2s ease'
+              }}
+              className="hover:border-current"
+            >Prince</a> with ❤️
           </p>
+          
+          <a 
+            href="https://github.com/pr1ncegupta/TLDR-P" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-medium transition-all duration-200 hover:scale-105"
+            style={{
+              backgroundColor: 'var(--apple-bg-secondary)',
+              color: 'var(--apple-text-primary)',
+              border: '1px solid var(--apple-separator)'
+            }}
+          >
+            <Star size={12} />
+            Star on GitHub
+          </a>
         </div>
       </footer>
     </div>
