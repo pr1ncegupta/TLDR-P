@@ -1,0 +1,26 @@
+{
+  "name": "TL;DR - AI-Powered Text Analysis",
+  "short_name": "TL;DR AI",
+  "description": "Transform any text into clear, actionable insights using advanced AI agents",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007AFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-16x16.svg",
+      "sizes": "16x16",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "utilities", "business"],
+  "lang": "en",
+  "dir": "ltr"
+}

@@ -1,0 +1,26 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bot head -->
+  <rect x="3" y="4" width="10" height="8" rx="2" fill="#007AFF"/>
+  
+  <!-- Bot eyes -->
+  <circle cx="6" cy="7" r="1" fill="white"/>
+  <circle cx="10" cy="7" r="1" fill="white"/>
+  <circle cx="6" cy="7" r="0.5" fill="#007AFF"/>
+  <circle cx="10" cy="7" r="0.5" fill="#007AFF"/>
+  
+  <!-- Bot mouth -->
+  <rect x="7" y="9" width="2" height="0.5" rx="0.25" fill="white"/>
+  
+  <!-- Bot antennas -->
+  <circle cx="6" cy="3" r="0.5" fill="#007AFF"/>
+  <circle cx="10" cy="3" r="0.5" fill="#007AFF"/>
+  <line x1="6" y1="4" x2="6" y2="3.5" stroke="#007AFF" stroke-width="0.75"/>
+  <line x1="10" y1="4" x2="10" y2="3.5" stroke="#007AFF" stroke-width="0.75"/>
+  
+  <!-- Bot body connector -->
+  <rect x="7.5" y="12" width="1" height="2" fill="#007AFF"/>
+  
+  <!-- AI sparkles -->
+  <path d="M4 2 L4.5 1 L5 2 L4 2.5 Z" fill="#34C759"/>
+  <path d="M12 13 L12.5 12 L13 13 L12 13.5 Z" fill="#34C759"/>
+</svg>
